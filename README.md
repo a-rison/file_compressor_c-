@@ -57,5 +57,7 @@ To run this project you need to create an executable file. You can follow the st
 Result: This project is just an implementation of Huffman coding, it is not as efficient as the compression algorithm used currently to compress files.
 Example: inputFile.txt (2.2MB) is compressed to compressedFile.huf (1.1MB) file and decompressed back to ouputFile.txt (2.2MB).
 ![image explaination](pic/3.png)
-![image explaination](pic/4.png)
+Compressed File:
 ![image explaination](pic/5.png)
+Decompressed File:
+![image explaination](pic/4.png)
