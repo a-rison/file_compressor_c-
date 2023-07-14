@@ -50,12 +50,12 @@ Decompressing file decompress(): Following are the steps followed to decompress 
 How to run this project?
 To run this project you need to create an executable file. You can follow the steps given below:
 1) For compressing:
-![alt text](pic/Screenshot_2023-07-14_085348.png)
+![alt text](pic/1.png)
 
 3) For Decompressing:
-![image explaination](pic/Screenshot_2023-07-14_085728.png)
+![image explaination](pic/2.png)
 Result: This project is just an implementation of Huffman coding, it is not as efficient as the compression algorithm used currently to compress files.
 Example: inputFile.txt (2.2MB) is compressed to compressedFile.huf (1.1MB) file and decompressed back to ouputFile.txt (2.2MB).
-![image explaination](pic/Screenshot_2023-07-14_085348.png)
-![image explaination](pic/Screenshot_2023-07-14_085859.png)
-![image explaination](pic/Screenshot_2023-07-14_085923.png)
+![image explaination](pic/3.png)
+![image explaination](pic/4.png)
+![image explaination](pic/5.png)
